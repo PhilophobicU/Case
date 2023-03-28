@@ -1,0 +1,1130 @@
+fileFormatVersion: 2
+guid: b249be49b54fb864787a746780650236
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: reseach4
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 894
+        width: 419
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2fe1c5ac626a64790f1aae226fc3be
+      internalID: -1552242238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw
+        (1)_1
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 958
+        width: 186
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2794980b162b9a44c94fea6480dc8c64
+      internalID: 1369299103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw
+        (1)_2
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 958
+        width: 226
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d99e26b47f01c4497d3cdc414614a6
+      internalID: 1517151591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw
+        (1)_3
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 511
+        width: 323
+        height: 658
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e50e5a6ca66f1469a1f6f9f747c98f
+      internalID: -328540666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: research3
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 858
+        width: 515
+        height: 389
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458638187c0f0004d98d2311c0fd7379
+      internalID: 330964606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw
+        (1)_5
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 901
+        width: 228
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c671904cfb941c640ba3bfaef31feb03
+      internalID: -722441900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw
+        (1)_6
+      rect:
+        serializedVersion: 2
+        x: 2174
+        y: 864
+        width: 328
+        height: 375
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce73d305191a4a144a0839e6270df924
+      internalID: -1962085829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw
+        (1)_7
+      rect:
+        serializedVersion: 2
+        x: 2423
+        y: 867
+        width: 100
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d496c6fc376fa9442bb7e5399ff4922c
+      internalID: -1841821799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw
+        (1)_8
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 448
+        width: 386
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddca1b61d6c0c7d47be11bc07c244a47
+      internalID: -1568407408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw
+        (1)_9
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 574
+        width: 275
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d37ab1d085f6944a67bd86963eb52e
+      internalID: 299000804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw
+        (1)_10
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 558
+        width: 226
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9519626002f6c47afba2da9b8fb10c
+      internalID: -632586335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw
+        (1)_11
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 798
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48766ab4a62e5647a61f82469b2f448
+      internalID: 822166974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: research2
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 438
+        width: 449
+        height: 364
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577843bc172ce364793e39e7d0194cb6
+      internalID: 1209830950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw
+        (1)_13
+      rect:
+        serializedVersion: 2
+        x: 2261
+        y: 547
+        width: 255
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e424e7cb4f1a70f4bae43cbdcfa6ac38
+      internalID: 1169194113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: research
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 94
+        width: 493
+        height: 363
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae26d3df69bdfc4690e8cb4be422542
+      internalID: -1796144961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 431
+        width: 195
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05f18b6fb2e36a46905c53f7d9ed509
+      internalID: -1306621249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw
+        (1)_16
+      rect:
+        serializedVersion: 2
+        x: 2078
+        y: 318
+        width: 131
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec0b9e19f6fee644856074e071c855c
+      internalID: -1825148562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw
+        (1)_17
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 318
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc938e6d8904c54ea0a5850dd9c84f9
+      internalID: -1541764351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw
+        (1)_18
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 158
+        width: 595
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45bd8d21397a9c43ac0b50c7fd5158b
+      internalID: -696165357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw
+        (1)_19
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 154
+        width: 190
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368b130b8054166429d1b614824bf392
+      internalID: -7840331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw
+        (1)_20
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 81
+        width: 435
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2ed00ebbb210a47b1e0aa86ca83487
+      internalID: -432285916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw
+        (1)_21
+      rect:
+        serializedVersion: 2
+        x: 2078
+        y: 127
+        width: 131
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa108cf9428958488689a2b444edf4b
+      internalID: 330028244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw
+        (1)_22
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 223
+        width: 8
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d458a854780384d805876380eade0e
+      internalID: -1705687327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw
+        (1)_23
+      rect:
+        serializedVersion: 2
+        x: 2251
+        y: 223
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83182b221d009fb4fb5f7baa7fd21643
+      internalID: -697765323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw
+        (1)_24
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 223
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1d016dee1e54e479ff7682db55b54c
+      internalID: 1858234291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw
+        (1)_25
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 223
+        width: 8
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3069c205b04d4474b830b35cd3972538
+      internalID: -309715594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw
+        (1)_26
+      rect:
+        serializedVersion: 2
+        x: 2314
+        y: 158
+        width: 12
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3f0f7c001048240afff69f1671e19f
+      internalID: 345225671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw
+        (1)_27
+      rect:
+        serializedVersion: 2
+        x: 2347
+        y: 223
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69b0adf198fcf94692979629382961e
+      internalID: 77442825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw
+        (1)_28
+      rect:
+        serializedVersion: 2
+        x: 2411
+        y: 191
+        width: 75
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616d3ce5c8ef98445955e819807a74b4
+      internalID: -428301445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw
+        (1)_29
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 124
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57661022897a6be42b81e5b9cd59aaec
+      internalID: 1524724455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw
+        (1)_30
+      rect:
+        serializedVersion: 2
+        x: 2251
+        y: 127
+        width: 11
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66308437e6e4ce40887d96cf6b5650c
+      internalID: 1902913468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw
+        (1)_31
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 158
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b711dd462b1b3cb44a2086f829958441
+      internalID: -1922980037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw
+        (1)_32
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 163
+        width: 10
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cac88709d3a8e743aef49b128f60298
+      internalID: 2107810115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw
+        (1)_33
+      rect:
+        serializedVersion: 2
+        x: 2347
+        y: 158
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394cd7bf7e8d33046b6b0a7a97fdccbf
+      internalID: -2058749865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw
+        (1)_34
+      rect:
+        serializedVersion: 2
+        x: 2398
+        y: 111
+        width: 29
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c529aba915b7c4fa0739c19fa551dd
+      internalID: 1543846307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw
+        (1)_35
+      rect:
+        serializedVersion: 2
+        x: 2468
+        y: 111
+        width: 29
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb62fcac285c9ee43ad5fb9844a2d41a
+      internalID: -2128054782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw
+        (1)_36
+      rect:
+        serializedVersion: 2
+        x: 2267
+        y: 63
+        width: 42
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1539dad71e6c5d42b8b3cd36175f872
+      internalID: -1236222012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw
+        (1)_37
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 131
+        width: 10
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf0ea13d09ab424ebd1ad3ecd3e2597
+      internalID: 2117355265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw
+        (1)_38
+      rect:
+        serializedVersion: 2
+        x: 2357
+        y: 94
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69536929a6d9aad44a0fa0edb824d3dc
+      internalID: 11087179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw
+        (1)_39
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 31
+        width: 1058
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d766445cf89eb4fb87f9674ee43337
+      internalID: -1694352330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw
+        (1)_40
+      rect:
+        serializedVersion: 2
+        x: 2251
+        y: 63
+        width: 11
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e723561b6a78f4c841c7fec414a0df
+      internalID: -617277484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw
+        (1)_41
+      rect:
+        serializedVersion: 2
+        x: 2314
+        y: 63
+        width: 12
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aabe2bb1d7ad6341bc13cc3f9338d0b
+      internalID: 1297284306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw
+        (1)_42
+      rect:
+        serializedVersion: 2
+        x: 2357
+        y: 31
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e2e261c77bad148b444330370dc14b
+      internalID: 1800411493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw
+        (1)_43
+      rect:
+        serializedVersion: 2
+        x: 2398
+        y: 63
+        width: 99
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79d23fdef284cf47bd9475657e0f36f
+      internalID: 1695962483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      energy: -1306621249
+      pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw (1)_1: 1369299103
+      pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw (1)_10: -632586335
+      pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw (1)_11: 822166974
+      pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw (1)_13: 1169194113
+      pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw (1)_16: -1825148562
+      pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw (1)_17: -1541764351
+      pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw (1)_18: -696165357
+      pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw (1)_19: -7840331
+      pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw (1)_2: 1517151591
+      pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw (1)_20: -432285916
+      pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw (1)_21: 330028244
+      pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw (1)_22: -1705687327
+      pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw (1)_23: -697765323
+      pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw (1)_24: 1858234291
+      pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw (1)_25: -309715594
+      pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw (1)_26: 345225671
+      pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw (1)_27: 77442825
+      pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw (1)_28: -428301445
+      pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw (1)_29: 1524724455
+      pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw (1)_3: -328540666
+      pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw (1)_30: 1902913468
+      pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw (1)_31: -1922980037
+      pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw (1)_32: 2107810115
+      pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw (1)_33: -2058749865
+      pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw (1)_34: 1543846307
+      pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw (1)_35: -2128054782
+      pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw (1)_36: -1236222012
+      pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw (1)_37: 2117355265
+      pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw (1)_38: 11087179
+      pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw (1)_39: -1694352330
+      pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw (1)_40: -617277484
+      pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw (1)_41: 1297284306
+      pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw (1)_42: 1800411493
+      pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw (1)_43: 1695962483
+      pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw (1)_5: -722441900
+      pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw (1)_6: -1962085829
+      pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw (1)_7: -1841821799
+      pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw (1)_8: -1568407408
+      pokemon_ultra_sun_and_moon___melemele_island_tiles_by_morlock_liam_dbvrgpw (1)_9: 299000804
+      reseach4: -1552242238
+      research: -1796144961
+      research2: 1209830950
+      research3: 330964606
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
