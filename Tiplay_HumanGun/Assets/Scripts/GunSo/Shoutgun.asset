@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fadcbd7c501b744fa6079596a14c542, type: 3}
+  m_Name: Shoutgun
+  m_EditorClassIdentifier: 
+  weaponDamage: 12
+  weaponCooldown: 0.6
+  specifyRecoilSticksmans: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a000000
+  dampenAmount: 3
+  stickmans:
+  - localPositions: {x: 0, y: 0.26, z: -0.32}
+    eulerAngles: {x: 90, y: -180, z: 0}
+    color: {fileID: 2100000, guid: a01ea08ad25db75419d374f51c66c60e, type: 2}
+    animation: 10
+  - localPositions: {x: 0, y: 0.3, z: 0.14}
+    eulerAngles: {x: -90, y: 0, z: 0}
+    color: {fileID: 2100000, guid: cdfdfc796ae926b49b089e813f928ba8, type: 2}
+    animation: 9
+  - localPositions: {x: 0, y: 0.3, z: 0.22}
+    eulerAngles: {x: -90, y: 0, z: 0}
+    color: {fileID: 2100000, guid: cdfdfc796ae926b49b089e813f928ba8, type: 2}
+    animation: 9
+  - localPositions: {x: 0, y: 0.31, z: -0.31}
+    eulerAngles: {x: 90, y: -180, z: 0}
+    color: {fileID: 2100000, guid: a01ea08ad25db75419d374f51c66c60e, type: 2}
+    animation: 10
+  - localPositions: {x: 0, y: 0.33, z: -0.72}
+    eulerAngles: {x: 90, y: 90, z: 90}
+    color: {fileID: 2100000, guid: 9ad6e64b8b4b0a948914e11259bc2a01, type: 2}
+    animation: 11
+  - localPositions: {x: 0, y: 0.35, z: 0.1}
+    eulerAngles: {x: 270, y: 180, z: 180}
+    color: {fileID: 2100000, guid: b494c07fb008f0f4c9d7ce6e08c1e333, type: 2}
+    animation: 9
+  - localPositions: {x: 0, y: 0.35, z: 0.02}
+    eulerAngles: {x: 90, y: 0, z: 180}
+    color: {fileID: 2100000, guid: b494c07fb008f0f4c9d7ce6e08c1e333, type: 2}
+    animation: 6
+  - localPositions: {x: 0, y: 0.33, z: 0.36}
+    eulerAngles: {x: -90, y: 180, z: 180}
+    color: {fileID: 2100000, guid: b494c07fb008f0f4c9d7ce6e08c1e333, type: 2}
+    animation: 0
+  - localPositions: {x: 0, y: 0.29, z: 0.21}
+    eulerAngles: {x: -90, y: -180, z: 180}
+    color: {fileID: 2100000, guid: b494c07fb008f0f4c9d7ce6e08c1e333, type: 2}
+    animation: 0
+  - localPositions: {x: -0.02, y: 0.3, z: 0.07}
+    eulerAngles: {x: -90, y: 180, z: 0}
+    color: {fileID: 2100000, guid: b494c07fb008f0f4c9d7ce6e08c1e333, type: 2}
+    animation: 6
+  - localPositions: {x: 0.02, y: 0.3, z: 0.07}
+    eulerAngles: {x: -90, y: 180, z: 0}
+    color: {fileID: 2100000, guid: b494c07fb008f0f4c9d7ce6e08c1e333, type: 2}
+    animation: 6
+  fireStyle: {fileID: 11400000, guid: 9db861271f9357d41b0568c2fb288c92, type: 2}

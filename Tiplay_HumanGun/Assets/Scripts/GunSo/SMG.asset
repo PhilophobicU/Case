@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fadcbd7c501b744fa6079596a14c542, type: 3}
+  m_Name: SMG
+  m_EditorClassIdentifier: 
+  weaponDamage: 2
+  weaponCooldown: 0.2
+  specifyRecoilSticksmans: 030000000400000005000000060000000700000008000000
+  dampenAmount: 6
+  stickmans:
+  - localPositions: {x: 0, y: 0, z: 0}
+    eulerAngles: {x: 0, y: 0, z: 0}
+    color: {fileID: 2100000, guid: a01ea08ad25db75419d374f51c66c60e, type: 2}
+    animation: 8
+  - localPositions: {x: 0, y: 0.26, z: 0.32}
+    eulerAngles: {x: -90, y: 0, z: 0}
+    color: {fileID: 2100000, guid: b494c07fb008f0f4c9d7ce6e08c1e333, type: 2}
+    animation: 9
+  - localPositions: {x: 0, y: 0.27, z: 0.56}
+    eulerAngles: {x: -90, y: 0, z: 0}
+    color: {fileID: 2100000, guid: b494c07fb008f0f4c9d7ce6e08c1e333, type: 2}
+    animation: 9
+  - localPositions: {x: 0, y: 0.23, z: 0.52}
+    eulerAngles: {x: -90, y: 0, z: 0}
+    color: {fileID: 2100000, guid: a01ea08ad25db75419d374f51c66c60e, type: 2}
+    animation: 0
+  - localPositions: {x: 0, y: 0.27, z: -0.41}
+    eulerAngles: {x: 90, y: 0, z: 0}
+    color: {fileID: 2100000, guid: b494c07fb008f0f4c9d7ce6e08c1e333, type: 2}
+    animation: 6
+  - localPositions: {x: 0, y: 0.32, z: -0.4}
+    eulerAngles: {x: 90, y: 0, z: 0}
+    color: {fileID: 2100000, guid: b494c07fb008f0f4c9d7ce6e08c1e333, type: 2}
+    animation: 9
+  - localPositions: {x: 0, y: 0.07, z: -0.42}
+    eulerAngles: {x: 0, y: 0, z: 0}
+    color: {fileID: 2100000, guid: cdfdfc796ae926b49b089e813f928ba8, type: 2}
+    animation: 3
+  - localPositions: {x: 0, y: 0.33, z: 0}
+    eulerAngles: {x: 90, y: 0, z: 0}
+    color: {fileID: 2100000, guid: b494c07fb008f0f4c9d7ce6e08c1e333, type: 2}
+    animation: 0
+  fireStyle: {fileID: 11400000, guid: 9e7a3d904d535af4c8aa33974c64b092, type: 2}
