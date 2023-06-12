@@ -15,4 +15,6 @@ MonoBehaviour:
   gemName: Pink Gem
   startingSellValue: 90
   gemIcon: {fileID: 21300000, guid: 7afee805af363984187336f342f8363b, type: 3}
-  gemPrefab: {fileID: 0}
+  gemPrefab: {fileID: 7320457076262315412, guid: c55461d2f6d0bf9469724191f33145ff,
+    type: 3}
+  collectedAmount: 8

@@ -4,9 +4,9 @@ using UnityEngine;
 public class GemSO : ScriptableObject {
 
     public string gemName;
-    public float startingSellValue;
+    public int startingSellValue;
     public Sprite gemIcon;
-    public GameObject gemPrefab;
-
+    public Gem gemPrefab;
+    public int collectedAmount;
 
 }

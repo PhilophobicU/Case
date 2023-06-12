@@ -15,4 +15,6 @@ MonoBehaviour:
   gemName: Green Gem
   startingSellValue: 70
   gemIcon: {fileID: 21300000, guid: d8f81882e001bd842b0d8805a65f5fce, type: 3}
-  gemPrefab: {fileID: 0}
+  gemPrefab: {fileID: 3928040890344873276, guid: a7eee875325ee3a4a9108ff2292acb06,
+    type: 3}
+  collectedAmount: 4

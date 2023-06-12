@@ -48,8 +48,8 @@ MonoBehaviour:
   height: 3
   width: 2
   gapSize: 0.55
-  gems:
-  - {fileID: 3928040890344873276, guid: a7eee875325ee3a4a9108ff2292acb06, type: 3}
-  - {fileID: 7320457076262315412, guid: c55461d2f6d0bf9469724191f33145ff, type: 3}
-  - {fileID: 1993732096801085209, guid: 5ae61a40422884e4d8763597ec56bd29, type: 3}
+  gemTypes:
+  - {fileID: 11400000, guid: a690c165cf165004dbe659b37993d94d, type: 2}
+  - {fileID: 11400000, guid: 670557feb11d7b54ab476e2e38c294cc, type: 2}
+  - {fileID: 11400000, guid: f4d5defc5aa28ba45a327616f6ea539f, type: 2}
   autoUpdate: 0

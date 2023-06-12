@@ -15,4 +15,6 @@ MonoBehaviour:
   gemName: Yellow Gem
   startingSellValue: 110
   gemIcon: {fileID: 21300000, guid: 44a66cb2a46ec874d858f2140189ff4f, type: 3}
-  gemPrefab: {fileID: 0}
+  gemPrefab: {fileID: 1993732096801085209, guid: 5ae61a40422884e4d8763597ec56bd29,
+    type: 3}
+  collectedAmount: 3
